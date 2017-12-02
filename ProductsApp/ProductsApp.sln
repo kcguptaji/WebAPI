@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsApp", "ProductsApp\ProductsApp.csproj", "{325509D3-C613-4BB1-ACD4-837AB5E32D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostWithOWIN", "SelfHostWithOWIN\SelfHostWithOWIN.csproj", "{8DD25C0A-4A13-4227-9012-9A9BFBFC36D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325509D3-C613-4BB1-ACD4-837AB5E32D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325509D3-C613-4BB1-ACD4-837AB5E32D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325509D3-C613-4BB1-ACD4-837AB5E32D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325509D3-C613-4BB1-ACD4-837AB5E32D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD25C0A-4A13-4227-9012-9A9BFBFC36D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD25C0A-4A13-4227-9012-9A9BFBFC36D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD25C0A-4A13-4227-9012-9A9BFBFC36D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD25C0A-4A13-4227-9012-9A9BFBFC36D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97BCA3DF-BE71-443F-A749-CD2241626142}
+	EndGlobalSection
+EndGlobal
